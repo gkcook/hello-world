@@ -1,4 +1,4 @@
-# My name is Grant Cook      
+# My name is Grant Cook       
 This is my first repository
 
 ###
